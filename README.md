@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there 👋, I'm Tala
 
+Computer Engineering graduate focused on backend development using Spring Boot and cybersecurity.
+
+I enjoy building backend systems and understanding how they are structured, while also exploring how they can be secured against real-world threats.
+
+I’m particularly interested in SOC analysis, incident response, and threat detection, and I’m currently developing my skills through hands-on projects in both backend engineering and cybersecurity fundamentals.
 <!--
 **Tala-Khalifeh/Tala-Khalifeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
