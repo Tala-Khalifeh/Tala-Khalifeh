@@ -1,10 +1,19 @@
 ## Hi there 👋, I'm Tala
 
-Computer Engineering graduate focused on backend development using Spring Boot and cybersecurity.
+Computer Engineering graduate and Master's student in AI & Cognitive Cyber Security at the University of Doha for Science and Technology (UDST).
 
-I enjoy building backend systems and understanding how they are structured, while also exploring how they can be secured against real-world threats.
+I’m interested in the intersection of Artificial Intelligence and Cybersecurity, with a focus on building intelligent and secure systems.
 
-I’m particularly interested in SOC analysis, incident response, and threat detection, and I’m currently developing my skills through hands-on projects in both backend engineering and cybersecurity fundamentals.
+I have a background in backend development, particularly with Java and Spring Boot, and I enjoy understanding how software systems are designed, built, and secured.
+
+Currently, I’m expanding my skills through graduate-level coursework and hands-on projects in:
+
+🤖 Artificial Intelligence
+🔐 Cybersecurity
+💻 Backend Development
+🧠 Intelligent & Secure Systems
+
+I’m always learning, building, and exploring how AI can be applied to solve real-world problems while keeping systems secure.
 <!--
 **Tala-Khalifeh/Tala-Khalifeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
